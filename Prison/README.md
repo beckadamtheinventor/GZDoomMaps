@@ -1,6 +1,6 @@
 # Prison
 
-A map for GZDoom starting in a prison cell with two secrets.
+A couple of map for GZDoom starting in a prison cell. Third level is empty.
 
 Should be relatively challenging.
 
